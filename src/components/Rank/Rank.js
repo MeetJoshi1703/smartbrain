@@ -1,0 +1,22 @@
+
+export default function Rank({name, entries}){
+    return(
+        <div>
+            {
+                name==='Guest'
+                ?<div className="white f3" >
+                 Welcome Guest
+                </div>
+                :<div>
+                <div className="white f3" >
+                {`${name} , your current rank is...`}
+                </div>
+                <div className="white f1">
+                {entries}
+                </div>
+                </div>
+            }
+            
+        </div>
+    );
+}
