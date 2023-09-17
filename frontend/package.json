@@ -1,5 +1,5 @@
 {
-  "name": "smartbrain2",
+  "name": "smartbrain-frontend",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:8080",
