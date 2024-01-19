@@ -1,6 +1,7 @@
 <h1>Smartbrain-Image Recognition App</h1>
 <p>For each image detection, the signed-in user's score is increased by one, and this score is maintained in the database.</p>
-find demo video here : https://www.linkedin.com/posts/meet-joshi-350814227_fullstackdevelopment-webdevelopment-personalproject-activity-7126940798255775744-RRUt?utm_source=share&utm_medium=member_desktop
+Demo video here :<a href="https://www.linkedin.com/posts/meet-joshi-350814227_fullstackdevelopment-webdevelopment-personalproject-activity-7126940798255775744-RRUt?utm_source=share&utm_medium=member_desktop
+">Linkedin Post</a> 
 <h2>Tech Stack</h2>
   <ul>
       <li>React Frontend</li>
